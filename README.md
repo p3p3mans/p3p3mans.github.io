@@ -21,9 +21,9 @@ tail -f /var/log/syslog
 ```
 
 ### Tabla
-|N |Nombre	|Apellido | DNI	|
+|N|Nombre|Apellido|DNI|
 |:---|:---|:---|----:|
-|1	|P3p3|	mans	|16245781|
+|1|P3p3|mans|16245781|
 
 ### Listas
 1. 1era lista
